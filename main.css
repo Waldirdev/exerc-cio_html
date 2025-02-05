@@ -55,3 +55,7 @@ time {
     font-size: 0.9em;
     color: #999;
 }
+.minha-imagem {
+    width: 100%;  /* Ajusta a largura para 100% do contêiner */
+    height: auto; /* Mantém a proporção da imagem */
+}
